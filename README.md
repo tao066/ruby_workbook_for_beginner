@@ -35,3 +35,8 @@ Progate Ruby を学習した人、あるいは CODEPREP で学習した人、
 プログラミングに慣れてもらうために、Ruby で 20 を数えたら負けゲームをターミナルで作ってもらいます！
 
 [リンク](./20_count_game.md)
+
+## とても悪質な FizzBuzz 問題を解いてみよう
+次はとっても難しい？ FizzBuzz 問題を解いてみましょう！
+
+[リンク](./malicious_fizzbuzz.md)
