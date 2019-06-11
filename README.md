@@ -42,3 +42,7 @@ Progate Ruby を学習した人、あるいは CODEPREP で学習した人、
 次はとっても難しい？ FizzBuzz 問題を解いてみましょう！
 
 [リンク](./malicious_fizzbuzz.md)
+
+## 三目並べを作ってみよう
+
+[リンク](./marubatu_game.md)
