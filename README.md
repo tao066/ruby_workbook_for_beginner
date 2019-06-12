@@ -46,3 +46,7 @@ Progate Ruby を学習した人、あるいは CODEPREP で学習した人、
 ## 三目並べを作ってみよう
 
 [リンク](./marubatu_game.md)
+
+## 自動販売機を模倣してみよう！
+
+[その１](./vending_machine/vending_machine_1.md)
