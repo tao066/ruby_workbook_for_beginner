@@ -22,12 +22,12 @@ https://prog-8.com/lessons/ruby/study/1
 book は次の順に取り組むのがおすすめです。
 
 1. Ruby入門 基本操作編
-2. Ruby演習 基本操作編
-3. Ruby基礎 文字列操作編
-4. Ruby基礎 配列操作編
-5. Ruby基礎 Hash編
-6. Ruby基礎 Class編
-7. Ruby演習 配列・Hash・Class編
+2. Ruby基礎 文字列操作編
+3. Ruby基礎 配列操作編
+4. Ruby基礎 Hash編
+5. Ruby基礎 Class編
+6. Ruby演習 配列・Hash・Class編
+7. Ruby演習 基本操作編
 8. Ruby実践 コマンドラインアプリ編
 
 https://codeprep.jp/books?tags=Ruby&sortBy=title&keyword=
