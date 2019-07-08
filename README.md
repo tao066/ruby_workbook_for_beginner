@@ -26,8 +26,8 @@ book は次の順に取り組むのがおすすめです。
 3. Ruby基礎 配列操作編
 4. Ruby基礎 Hash編
 5. Ruby基礎 Class編
-6. Ruby演習 配列・Hash・Class編
-7. Ruby演習 基本操作編
+6. Ruby演習 基本操作編
+7. Ruby演習 配列・Hash・Class編
 8. Ruby実践 コマンドラインアプリ編
 
 https://codeprep.jp/books?tags=Ruby&sortBy=title&keyword=
